@@ -1,6 +1,9 @@
 ## N Queens Local Search
 This repository implements the following local search methods.
 
+# Ed changes
+I am modifying this code to make it suitable for innovative approaches to this problem.
+
 * Hill Climbing
 * Random Restart
 * Simulated Annealing
